@@ -12,5 +12,5 @@ The writeup file includes the following sections:
 4. Output
 5. Conclusion
 
-This is the (wirteup)[https://github.com/weijia2013/Practical-Machine-Learning/blob/master/Writeup.html] html file.
+This is the [wirteup](https://github.com/weijia2013/Practical-Machine-Learning/blob/master/Writeup.html) html file.
 
